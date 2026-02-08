@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" rx="20" fill="#111827"/>
+
+  <!-- Bars -->
+  <rect x="28" y="52" width="12" height="32" rx="3" fill="#6366F1"/>
+  <rect x="54" y="36" width="12" height="48" rx="3" fill="#6366F1"/>
+  <rect x="80" y="60" width="12" height="24" rx="3" fill="#6366F1"/>
+
+  <!-- Focus frame -->
+  <rect x="22" y="30" width="76" height="60" rx="10"
+        stroke="#6366F1" stroke-width="2" stroke-opacity="0.6"/>
+</svg>
